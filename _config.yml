@@ -81,8 +81,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  conferences: 
+    title: 'Machine Learning approach for Inverse Kinematics in Trajectory Planning of Pioneer 2 Manipulator with Cubic Spline Interpolation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
